@@ -23,6 +23,8 @@ export default {
     tsconfigRootDir: __dirname,
   },
 }
+
+https://admin-dashboard-in-reactjs-nine.vercel.app/
 ```
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
